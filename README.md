@@ -1,4 +1,5 @@
 # Jensen-Shannon-Divergence
+Goal: calculate the Jensen-Shannon Divergence between two files using pthreading.
 Brief explanation of all of the source files:
 
 1. compare.c contains the main function, the consumer functions, and file/directory functions.
